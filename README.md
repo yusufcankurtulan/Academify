@@ -91,6 +91,3 @@ cd Academify
 2. Yeni branch açınız (`feature/`, `bugfix/`, ...).
 3. Değişiklikleri commit/push yapınız.
 4. Pull request açınız.
-
-## Lisans
-MIT Lisansı
